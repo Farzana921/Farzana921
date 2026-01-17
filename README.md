@@ -1,29 +1,36 @@
-# Hi, I'm Farzana 👋
+## Hello there! 👋
 
-I'm a third-year **Computer Science (IT)** student based in **Dubai**.  
-I'm currently learning **React** and **Python**, and gradually building my skills in **web development** and **cybersecurity**.
+I'm **Farzana**, a third-year **Computer Science (IT)** student based in **Dubai**.
 
-## What I'm doing now
-- Learning **React** (components, props, basic hooks)
-- Practicing **Python** fundamentals
-- Building small projects and pushing them to GitHub
-- Improving my workflow with **Git & GitHub**
-
-## Background
-- Studied **HTML, CSS, and JavaScript** through online courses (~9 months)
-- Worked on multiple practice and course projects
-- Experience with **team-based projects** and collaboration tools
-
-## Interest
-- Interested in **Cybersecurity & Ethical Hacking**
-- Participated in beginner-level **CTFs** and security labs
-- Familiar with **Linux and command-line usage** through CTF challenges
-
-## Tools & Technologies
-- HTML, CSS, JavaScript, React (learning)
-- Python (learning)
-- Git, GitHub, VS Code
-- Linux (basic command-line usage)
+- 🎓 Currently studying Computer Science (IT)
+- 🌱 Learning **React** and **Python**
+- 💻 Background in **HTML, CSS, JavaScript**
+- 🤝 Experience with **team projects** and collaboration tools
+- 🔐 Interested in **Cybersecurity & Ethical Hacking**
+- 🐧 Familiar with **Linux and command-line** through CTF challenges
+- 📚 Learning step by step and documenting my journey on GitHub
 
 ---
-📌 This profile reflects my learning journey and ongoing growth in tech.
+
+### 🛠 Tech I use / learn
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Programming:** Python (learning), Java (basic OOP)
+- **Tools:** Git, GitHub, VS Code, Trello, Notion
+- **Security:** CTFs, labs, basic pentesting concepts
+- **OS:** Linux (basic CLI usage)
+
+---
+
+### 📂 Featured work
+- 📌 **React Projects** – small React projects and practice
+- 📌 **Intro to Python** – Python basics and exercises
+
+---
+
+### 🌍 Find me here
+- GitHub: [https://github.com/Farzana921](https://github.com/Farzana921)
+
+---
+
+⭐ *This profile reflects my learning journey, curiosity, and continuous improvement.*
+
