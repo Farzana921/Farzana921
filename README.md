@@ -2,12 +2,12 @@
 
 I'm **Farzana**, a third-year **Computer Science (IT)** student based in **Dubai**.
 
-🌱 Currently learning **React** and **Python**  
+🌱 Learning **React** and **Python**  
 💻 Background in **HTML, CSS, and JavaScript**  
 🤝 Experience with **team-based projects** and collaboration tools  
 🔐 Interested in **Cybersecurity & Ethical Hacking**  
-🐧 Familiar with **Linux & command-line** through CTF challenges  
-📚 Learning step by step and improving every day  
+🐧 Familiar with **Linux and command-line** through CTF challenges  
+📚 Focused on learning, practice, and steady improvement  
 
 ---
 
@@ -20,9 +20,9 @@ I'm **Farzana**, a third-year **Computer Science (IT)** student based in **Dubai
 ---
 
 ### 📂 Projects
-- **React Projects** – small React practice projects  
-- **Intro to Python** – Python basics and exercises  
+- **React Projects** – small React practice projects
+- **Intro to Python** – Python basics and exercises
 
 ---
 
-📌 *This profile shows my learning journey and steady growth in tech.*
+📌 *This GitHub documents my learning journey and growth as a developer.*
