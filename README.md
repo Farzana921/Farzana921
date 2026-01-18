@@ -19,10 +19,5 @@ I'm **Farzana**, a third-year **Computer Science (IT)** student based in **Dubai
 
 ---
 
-### 📂 Projects
-- **React Projects** – small React practice projects
-- **Intro to Python** – Python basics and exercises
-
----
 
 📌 *This GitHub documents my learning journey and growth as a developer.*
