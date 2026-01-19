@@ -25,11 +25,3 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,linux,vscode" />
 </p>
 
----
-
-
-### 📫 Contact
-<p align="center">
-  <a href="https://github.com/Farzana921">GitHub</a> •
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
-</p>
