@@ -3,10 +3,6 @@
 
 <h1 align="center">Hi 👋, I'm Farzana</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=520&lines=React+Learner;Python+Learner;Cybersecurity+Enthusiast;Learning+step+by+step" />
-</p>
-
 ---
 
 ### 👩‍💻 About Me
