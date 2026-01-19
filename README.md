@@ -1,6 +1,6 @@
-<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=React+Learner;Python+Learner;Cybersecurity+Enthusiast;Learning+step+by+step" />
-
 # Hi 👋, I'm Farzana
+
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=React+Learner;Python+Learner;Cybersecurity+Enthusiast;Learning+step+by+step" />
 
 Computer Science (IT) student based in Dubai.  
 Currently learning React and Python and building small projects.  
