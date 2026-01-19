@@ -3,7 +3,6 @@
 
 <h1 align="center">Hi 👋, I'm Farzana</h1>
 
----
 
 ### 👩‍💻 About Me
 - Computer Science (IT) student based in **Dubai**
