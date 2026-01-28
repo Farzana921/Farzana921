@@ -5,7 +5,7 @@
 
 
 ### 👩‍💻 About Me
-- Computer Science (IT) student based in **Dubai**
+- Computer Science (IT) student.
 - Currently learning **React** and **Python**
 - Exploring **cybersecurity** through self-learning and participating in CTF competitions.
 - Familiar with **Linux command-line** from hands-on labs
