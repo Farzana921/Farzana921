@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Farzana a Computer Science (IT) student</h1>
 
 
----
-
 ### 🧰 Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,linux,vscode" />
